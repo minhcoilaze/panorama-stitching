@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.streamlit/secrets.toml
+outputs/*
+!outputs/.gitkeep
+sample_data/*
+!sample_data/.gitkeep
+.env
+.env.*
+!.env.example
+*.zip
+*.dat
+*.pstats
